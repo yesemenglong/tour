@@ -4,3 +4,5 @@
 ```go
 go run main.go sql struct --username root --password 123456 --host localhost --db=数据库名 --table "表名"
 ```
+
+《Go语言编程之旅》
